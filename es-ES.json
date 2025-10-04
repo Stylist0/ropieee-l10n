@@ -59,7 +59,10 @@
     "HELP_WIRELESS_NETWORK": "Seleccione la red WiFi a la que desea unirse.",
     "BUTTON_SCAN": "ESCANEAR",
     "WIRELESS_PASSWORD": "Contraseña",
-    "HELP_WIRELESS_PASSWORD": "La contraseña (frase de paso WPA-PSK) para la red inalámbrica a la que desea unirse."
+    "HELP_WIRELESS_PASSWORD": "La contraseña (frase de paso WPA-PSK) para la red inalámbrica a la que desea unirse.",
+    "ACTIVE_NETWORK_INTERFACE": "Interfaz de red activa",
+    "HELP_ACTIVE_NETWORK_INTERFACE": "Configurar qué interfaz de red utilizar para mostrar la dirección IP visible.",
+    "OPTION_ETHERNET_WIFI": "Ethernet (si no, Wi-Fi)"
   },
   "DISPLAY": {
     "INTRO_TEXT": "Esta sección contiene la configuración para la pantalla táctil de Raspberry Pi.",
@@ -118,6 +121,8 @@
     "HELP_ALARM_CLOCK": "La Extensión de Reloj Despertador de TheAppgineer hace posible configurar una alarma para una zona Roon.",
     "TOUCHSCREEN_TYPE": "Tipo De Pantalla Táctil",
     "HELP_TOUCHSCREEN_TYPE": "¿Qué tipo de pantalla táctil está conectada?",
+    "TOUCH": "Táctil",
+    "HELP_TOUCH": "Habilitar entrada táctil.",
     "BUTTON_SHUTDOWN": "Apagar",
     "BUTTON_REBOOT": "Reiniciar",
     "BUTTON_ROONBRIDGE": "Reinstalar Roon Bridge",
