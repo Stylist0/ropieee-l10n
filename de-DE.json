@@ -59,7 +59,10 @@
     "HELP_WIRELESS_NETWORK": "Wählen Sie das WLAN-Netzwerk aus, dem Sie beitreten möchten.",
     "BUTTON_SCAN": "SCANNEN",
     "WIRELESS_PASSWORD": "Passwort",
-    "HELP_WIRELESS_PASSWORD": "Das Passwort (WPA-PSK-Passphrase) für das drahtlose Netzwerk, dem Sie beitreten möchten."
+    "HELP_WIRELESS_PASSWORD": "Das Passwort (WPA-PSK-Passphrase) für das drahtlose Netzwerk, dem Sie beitreten möchten.",
+    "ACTIVE_INTERFACE": "Aktive Netzwerkschnittstelle",
+    "HELP_ACTIVE_INTERFACE": "Konfigurieren Sie, welche Netzwerkschnittstelle für die Anzeige der sichtbaren IP-Adresse verwendet werden soll.",
+    "ACTIVE_INTERFACE_ETHERNET": "Ethernet (sonst Wi-Fi)"
   },
   "DISPLAY": {
     "INTRO_TEXT": "Dieser Abschnitt enthält die Einstellungen für den Raspberry Pi Touchscreen.",
@@ -82,7 +85,9 @@
     "CUSTOM_CLOCK_COLOR": "Benutzerdefinierte Uhrenfarbe",
     "HELP_CUSTOM_CLOCK_COLOR": "Benutzerdefinierte Farbe (definiert in HEX-Notation).",
     "CLOCK_24HR": "24-Stunden-Uhr",
-    "HELP_CLOCK_24HR": "Zeigen Sie die Zeit im 24-Stunden-Format an."
+    "HELP_CLOCK_24HR": "Zeigen Sie die Zeit im 24-Stunden-Format an.",
+    "TOUCH": "Touch",
+    "HELP_TOUCH": "Touch-Eingabe aktivieren."
   },
   "REMOTE": {
     "INTRO_TEXT": "Dieser Abschnitt enthält die Einstellungen für eine Fernbedienung. Der Typ wird automatisch erkannt.",

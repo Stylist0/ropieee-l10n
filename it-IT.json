@@ -59,7 +59,10 @@
     "HELP_WIRELESS_NETWORK": "Seleziona la rete WiFi a cui vuoi unirti.",
     "BUTTON_SCAN": "SCANSIONA",
     "WIRELESS_PASSWORD": "Password",
-    "HELP_WIRELESS_PASSWORD": "La password (frase di accesso WPA-PSK) per la rete wireless a cui vuoi unirti."
+    "HELP_WIRELESS_PASSWORD": "La password (frase di accesso WPA-PSK) per la rete wireless a cui vuoi unirti.",
+    "ACTIVE_INTERFACE": "Interfaccia di rete attiva",
+    "HELP_ACTIVE_INTERFACE": "Configurare quale interfaccia di rete utilizzare per mostrare l'indirizzo IP visibile.",
+    "ACTIVE_INTERFACE_ETHERNET": "Ethernet (altrimenti Wi-Fi)"
   },
   "DISPLAY": {
     "INTRO_TEXT": "Questa sezione contiene le impostazioni per il Touchscreen Raspberry Pi.",
@@ -82,7 +85,9 @@
     "CUSTOM_CLOCK_COLOR": "Colore Orologio Personalizzato",
     "HELP_CUSTOM_CLOCK_COLOR": "Colore personalizzato (definito in notazione HEX).",
     "CLOCK_24HR": "Orologio 24 Ore",
-    "HELP_CLOCK_24HR": "Mostra l'ora nel formato 24 ore."
+    "HELP_CLOCK_24HR": "Mostra l'ora nel formato 24 ore.",
+    "TOUCH": "Touch",
+    "HELP_TOUCH": "Abilita input touch."
   },
   "REMOTE": {
     "INTRO_TEXT": "Questa sezione contiene le impostazioni per un telecomando. Il tipo viene rilevato automaticamente.",

@@ -59,7 +59,10 @@
     "HELP_WIRELESS_NETWORK": "Select the WiFi network you want to join.",
     "BUTTON_SCAN": "SCAN",
     "WIRELESS_PASSWORD": "Password",
-    "HELP_WIRELESS_PASSWORD": "The password (WPA-PSK passphrase) for the wireless network you want to join."
+    "HELP_WIRELESS_PASSWORD": "The password (WPA-PSK passphrase) for the wireless network you want to join.",
+    "ACTIVE_INTERFACE": "Aktif Ağ Arayüzü",
+    "HELP_ACTIVE_INTERFACE": "Görünür IP adresinin gösterileceği ağ arayüzünü yapılandırın.",
+    "ACTIVE_INTERFACE_ETHERNET": "Ethernet (yoksa Wi-Fi)"
   },
   "DISPLAY": {
     "INTRO_TEXT": "This section contains the settings for the Raspberry Pi Touchscreen.",
@@ -82,7 +85,9 @@
     "CUSTOM_CLOCK_COLOR": "Custom Clock Color",
     "HELP_CUSTOM_CLOCK_COLOR": "Custom color (defined in HEX notation).",
     "CLOCK_24HR": "24 Hour Clock",
-    "HELP_CLOCK_24HR": "Show the time in the 24-hour clock."
+    "HELP_CLOCK_24HR": "Show the time in the 24-hour clock.",
+    "TOUCH": "Dokunmatik",
+    "HELP_TOUCH": "Dokunmatik girişi etkinleştir."
   },
   "REMOTE": {
     "INTRO_TEXT": "This section contains the settings for a remote control. The type is automatically detected.",

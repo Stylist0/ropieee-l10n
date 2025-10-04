@@ -59,7 +59,10 @@
     "HELP_WIRELESS_NETWORK": "Seleccione la red WiFi a la que desea unirse.",
     "BUTTON_SCAN": "ESCANEAR",
     "WIRELESS_PASSWORD": "Contraseña",
-    "HELP_WIRELESS_PASSWORD": "La contraseña (frase de paso WPA-PSK) para la red inalámbrica a la que desea unirse."
+    "HELP_WIRELESS_PASSWORD": "La contraseña (frase de paso WPA-PSK) para la red inalámbrica a la que desea unirse.",
+    "ACTIVE_INTERFACE": "Interfaz de red activa",
+    "HELP_ACTIVE_INTERFACE": "Configurar qué interfaz de red utilizar para mostrar la dirección IP visible.",
+    "ACTIVE_INTERFACE_ETHERNET": "Ethernet (si no, Wi-Fi)"
   },
   "DISPLAY": {
     "INTRO_TEXT": "Esta sección contiene la configuración para la pantalla táctil de Raspberry Pi.",
@@ -82,7 +85,9 @@
     "CUSTOM_CLOCK_COLOR": "Color De Reloj Personalizado",
     "HELP_CUSTOM_CLOCK_COLOR": "Color personalizado (definido en notación HEX).",
     "CLOCK_24HR": "Reloj De 24 Horas",
-    "HELP_CLOCK_24HR": "Muestre la hora en formato de 24 horas."
+    "HELP_CLOCK_24HR": "Muestre la hora en formato de 24 horas.",
+    "TOUCH": "Táctil",
+    "HELP_TOUCH": "Habilitar entrada táctil."
   },
   "REMOTE": {
     "INTRO_TEXT": "Esta sección contiene la configuración para un control remoto. El tipo se detecta automáticamente.",
