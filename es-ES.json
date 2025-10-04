@@ -171,6 +171,6 @@
     "DONT_INTERRUPT": "Please do not interrupt or turn it off.",
     "IN_PROGRESS": "Update in progress...",
     "WAIT_1": "Your {{.constants.GLOBAL_PROD_NAME}} is being updated to",
-    "WAIT_2": "This might take a while..."
+    "WAIT_2": "Esto puede tardar un poco..."
   }
 }
