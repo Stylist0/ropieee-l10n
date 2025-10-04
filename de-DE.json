@@ -157,5 +157,20 @@
     "APPRECIATION_TEXT": "Jede Spende wird sehr geschätzt!",
     "REGARDS_TEXT": "Mit freundlichen Grüßen,",
     "BUTTON_HOME": "ZUR STARTSEITE"
+  },
+  "INIT": {
+    "DONATE_1": "Hoffentlich bereitet dieses Produkt Freude.",
+    "DONATE_2": "Spenden sind willkommen 😉",
+    "INITIALISING": "Ihr Gerät wird initialisiert...",
+    "WAIT": "Es ist in Kürze einsatzbereit, bitte haben Sie etwas Geduld...",
+    "WELCOME": "Willkommen bei {{.constants.GLOBAL_PROD_NAME}}!",
+    "WRAPPING_UP_1": "Installation wird abgeschlossen... Bitte nicht unterbrechen.",
+    "WRAPPING_UP_2": "Dies kann noch einige Minuten dauern, aber wir sind fast fertig. Während dieses Schritts kann das Gerät mehrfach neu starten."
+  },
+  "UPDATE": {
+    "DONT_INTERRUPT": "Bitte nicht unterbrechen oder ausschalten.",
+    "IN_PROGRESS": "Aktualisierung läuft...",
+    "WAIT_1": "Ihr {{.constants.GLOBAL_PROD_NAME}} wird aktualisiert auf",
+    "WAIT_2": "Dies kann eine Weile dauern..."
   }
 }
