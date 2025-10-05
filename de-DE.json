@@ -59,7 +59,10 @@
     "HELP_WIRELESS_NETWORK": "Wählen Sie das WLAN-Netzwerk aus, dem Sie beitreten möchten.",
     "BUTTON_SCAN": "SCANNEN",
     "WIRELESS_PASSWORD": "Passwort",
-    "HELP_WIRELESS_PASSWORD": "Das Passwort (WPA-PSK-Passphrase) für das drahtlose Netzwerk, dem Sie beitreten möchten."
+    "HELP_WIRELESS_PASSWORD": "Das Passwort (WPA-PSK-Passphrase) für das drahtlose Netzwerk, dem Sie beitreten möchten.",
+    "ACTIVE_NETWORK_INTERFACE": "Aktive Netzwerkschnittstelle",
+    "HELP_ACTIVE_NETWORK_INTERFACE": "Konfigurieren Sie, welche Netzwerkschnittstelle für die Anzeige der sichtbaren IP-Adresse verwendet werden soll.",
+    "OPTION_ETHERNET_WIFI": "Ethernet (sonst Wi-Fi)"
   },
   "DISPLAY": {
     "INTRO_TEXT": "Dieser Abschnitt enthält die Einstellungen für den Raspberry Pi Touchscreen.",
@@ -118,6 +121,8 @@
     "HELP_ALARM_CLOCK": "Die Alarm Clock Extension von TheAppgineer ermöglicht es, einen Wecker für eine Roon-Zone zu setzen.",
     "TOUCHSCREEN_TYPE": "Touchscreen-Typ",
     "HELP_TOUCHSCREEN_TYPE": "Welcher Typ von Touchscreen ist angeschlossen?",
+    "TOUCH": "Touch",
+    "HELP_TOUCH": "Touch-Eingabe aktivieren.",
     "BUTTON_SHUTDOWN": "Herunterfahren",
     "BUTTON_REBOOT": "Neustart",
     "BUTTON_ROONBRIDGE": "Roon Bridge Neu Installieren",
