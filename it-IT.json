@@ -164,18 +164,18 @@
     "BUTTON_HOME": "VAI ALLA HOME"
   },
   "INIT": {
-    "DONATE_1": "I hope you enjoy this product.",
-    "DONATE_2": "are welcome 😉",
-    "INITIALISING": "Your device is initialising...",
-    "WAIT": "It will be up and running in a moment, so please be patient...",
-    "WELCOME": "Welcome to {{.constants.GLOBAL_PROD_NAME}}!",
-    "WRAPPING_UP_1": "Wrapping up installation... Please do not interrupt.",
-    "WRAPPING_UP_2": "This can take a few more minutes, but we are almost there. During this step the device might reboot a few times."
+    "DONATE_1": "Spero che tu possa apprezzare questo prodotto.",
+    "DONATE_2": "sono benvenute 😉",
+    "INITIALISING": "Il tuo dispositivo si sta inizializzando...",
+    "WAIT": "Sarà operativo tra poco, quindi ti preghiamo di avere pazienza...",
+    "WELCOME": "Benvenuto in {{.constants.GLOBAL_PROD_NAME}}!",
+    "WRAPPING_UP_1": "Completamento dell'installazione... Per favore non interrompere.",
+    "WRAPPING_UP_2": "Questo può richiedere ancora qualche minuto, ma ci siamo quasi. Durante questo passaggio il dispositivo potrebbe riavviarsi più volte."
   },
   "UPDATE": {
     "DONT_INTERRUPT": "Please do not interrupt or turn it off.",
     "IN_PROGRESS": "Update in progress...",
     "WAIT_1": "Your {{.constants.GLOBAL_PROD_NAME}} is being updated to",
-    "WAIT_2": "This might take a while..."
+    "WAIT_2": "Questo potrebbe richiedere un po' di tempo..."
   }
 }

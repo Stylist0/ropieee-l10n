@@ -164,18 +164,18 @@
     "BUTTON_HOME": "ALLER À L'ACCUEIL"
   },
   "INIT": {
-    "DONATE_1": "I hope you enjoy this product.",
-    "DONATE_2": "are welcome 😉",
-    "INITIALISING": "Your device is initialising...",
-    "WAIT": "It will be up and running in a moment, so please be patient...",
-    "WELCOME": "Welcome to {{.constants.GLOBAL_PROD_NAME}}!",
-    "WRAPPING_UP_1": "Wrapping up installation... Please do not interrupt.",
-    "WRAPPING_UP_2": "This can take a few more minutes, but we are almost there. During this step the device might reboot a few times."
+    "DONATE_1": "J'espère que vous apprécierez ce produit.",
+    "DONATE_2": "sont les bienvenues 😉",
+    "INITIALISING": "Votre appareil est en cours d'initialisation...",
+    "WAIT": "Il sera opérationnel dans un instant, merci de patienter...",
+    "WELCOME": "Bienvenue sur {{.constants.GLOBAL_PROD_NAME}} !",
+    "WRAPPING_UP_1": "Finalisation de l'installation... Veuillez ne pas interrompre.",
+    "WRAPPING_UP_2": "Cela peut prendre encore quelques minutes, mais nous y sommes presque. Pendant cette étape, l'appareil peut redémarrer plusieurs fois."
   },
   "UPDATE": {
-    "DONT_INTERRUPT": "Please do not interrupt or turn it off.",
-    "IN_PROGRESS": "Update in progress...",
-    "WAIT_1": "Your {{.constants.GLOBAL_PROD_NAME}} is being updated to",
-    "WAIT_2": "This might take a while..."
+    "DONT_INTERRUPT": "Veuillez ne pas interrompre ou éteindre l'appareil.",
+    "IN_PROGRESS": "Mise à jour en cours...",
+    "WAIT_1": "Votre {{.constants.GLOBAL_PROD_NAME}} est en cours de mise à jour vers",
+    "WAIT_2": "Cela peut prendre un certain temps..."
   }
 }
