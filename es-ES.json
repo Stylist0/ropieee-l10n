@@ -173,9 +173,9 @@
     "WRAPPING_UP_2": "This can take a few more minutes, but we are almost there. During this step the device might reboot a few times."
   },
   "UPDATE": {
-    "DONT_INTERRUPT": "Please do not interrupt or turn it off.",
-    "IN_PROGRESS": "Update in progress...",
-    "WAIT_1": "Your {{.constants.GLOBAL_PROD_NAME}} is being updated to",
-    "WAIT_2": "This might take a while..."
+    "DONT_INTERRUPT": "Por favor, no interrumpa ni apague el dispositivo.",
+    "IN_PROGRESS": "Actualización en progreso...",
+    "WAIT_1": "Su {{.constants.GLOBAL_PROD_NAME}} se está actualizando a",
+    "WAIT_2": "Esto puede tardar un poco..."
   }
 }
